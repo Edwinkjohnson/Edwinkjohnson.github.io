@@ -1,10 +1,45 @@
-### 👋 Hi, I'm Edwin K Johnson
+# 👋 Hey there! I'm Edwin Johnson  
 
-🎓 First-year BCA student at Rajagiri College  
-🎨 Passionate about modern, responsive web design  
-💻 Skilled in HTML, CSS, Bootstrap, and AOS  
-🧠 Creative problem solver with a strong aesthetic sense  
-🚀 Building a unique portfolio with blended visuals, smooth animations, and side-by-side layouts  
-🌱 Always learning new frameworks and refining my craft
+🎓 **Bachelor of Computer Applications (BCA)** student at **Rajagiri College of Social Sciences**, currently in my second year.  
+💻 Passionate about building **websites**, **AI tools**, and **apps** that make a difference.  
 
-📫 Let's connect and create something amazing!
+---
+
+### 🧠 About Me  
+- 🌱 Currently learning **Full Stack Development (MERN)**, along with **HTML**, **CSS**, and modern web technologies.  
+- 💡 I enjoy solving problems through **code** and have a strong interest in **mathematics**.  
+- 🧩 I’ve learned and worked with:  
+  **C**, **SQL**, **Data Structures**, **OOP using Java**, and **Python**.  
+- 💼 Completed a **2-month Research Internship** at **ERA (an EduTech platform)**.  
+- 🎯 My goal is to become a **professional programmer** and continually expand my skill set.  
+
+---
+
+### 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me  
+📧 **Email:** [iedwinkjohnson@gmail.com](mailto:iedwinkjohnson@gmail.com)  
+💼 **LinkedIn:** [Add your LinkedIn link here once ready]  
+
+---
+
+⭐ *“Code, Learn, and Build — one project at a time.”*  
